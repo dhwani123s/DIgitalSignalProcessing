@@ -1,2 +1,2 @@
-# DIgital Signal Processing Lab Work
+# Digital Signal Processing Lab Work
 Practical File
